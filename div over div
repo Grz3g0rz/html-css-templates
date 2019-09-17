@@ -1,0 +1,10 @@
+.class or #id {
+    clear: both;
+    z-index: 1;
+    position: absolute;
+    top: 440px; /*położene*/
+    left: 70px;
+    background-color: rgb(255, 100, 10);
+    width:300px; /*wymiary*/
+    height:300px;
+}
